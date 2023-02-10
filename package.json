@@ -1,6 +1,7 @@
 {
   "name": "gym",
   "version": "0.1.0",
+  "homepage": "http://Sahilbalouria19.github.io/Gym__Website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
